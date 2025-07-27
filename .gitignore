@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+*.env
+
+# Environment variables / secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Compiled files
+*.out
+*.o
+*.class
+
+# Streamlit cache
+.streamlit/
+
+# DVC cache (if using DVC)
+.dvc/
+
+# Screenshot/output folders (optional)
+screenshots/
+outputs/
+plots/
+
+
